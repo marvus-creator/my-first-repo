@@ -9,4 +9,4 @@ Thank you for taking interest in this project.
 4. Commit with a clear message
 5. Open a Pull Request
 
-All contributions are welcome!!
+All contributions are welcome!
